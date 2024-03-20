@@ -15,7 +15,9 @@
   Técnicas esfumado pálpebra luz;
   Dicas e truques incríveis.
 
-  Inclui certificado ao final do curso
+  Após o cadastro, as videoaulas poderão ser enviadas para o email cadastrado em até 3 dias.
+  
+  Inclui certificado de conclusão de curso.
 
   Para mais informações:
   viananavitoria75@gmail.com
