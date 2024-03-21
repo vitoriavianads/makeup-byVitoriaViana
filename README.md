@@ -20,4 +20,4 @@
   Inclui certificado de conclusão de curso.
 
   Para mais informações:
-  viananavitoria75@gmail.com
+  vianaanavitoria75@gmail.com
