@@ -1,0 +1,219 @@
+.jacques-francois-regular {
+    font-family: "Jacques Francois", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  body {
+      margin: 0;
+      background: #E8D7D7;
+      font-family: "Jacques Francois", serif;
+  }
+
+    .icon1{
+        width: 30px;
+        height: 30px;
+    }
+    .icon2{
+        width: 34px;
+        height: 30px;
+    }
+  
+  
+  .navbar {
+      background: #9F414E;
+      width: 100%px;
+      height: 100%;
+      flex-shrink: 0;
+  }
+  
+  .navbar-centro {
+      font-family: "Imbue";
+      font-size: 20px;
+      background-color: white;
+      color: #9F414E;
+      padding-left: 20px;
+      display: flex;
+      align-items: center;
+      text-align: center;
+      margin: 0 auto;              
+      border-radius: 20px;
+  }
+  
+  .navbar-centro > img {
+      width: 25px;
+      height: 24.573px;
+      flex-shrink: 0;
+  }
+  
+  .navbar-centro > * {
+      padding: 5px;
+      text-align: center;
+      margin: 5px;
+  }
+  
+  img {
+      width: 230px;
+      height: 194px;
+      flex-shrink: 0;
+  }
+  
+  .img-5 {
+      width: 25px;
+      height: 25px;
+      position: relative;
+      object-fit: cover;
+  }
+  
+  .curso-de-maquiagem,
+  .curso-de-maquiagem * {
+    box-sizing: border-box;
+    font-family: "Jacques Francois", serif;
+  }
+  .curso-de-maquiagem {
+    color: #000000;
+    text-align: center;
+    font-family: "-", sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    position: relative;
+    font-family: "Jacques Francois", serif;
+  }
+  .curso-de-maquiagem-span {
+    color: #000000;
+    font-family: "Jacques Francois", serif;
+    font-size: 36px;
+    font-weight: 400;
+  }
+  .curso-de-maquiagem-span2 {
+    color: #000000;
+    font-family: "Imbue-Regular", sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+  }
+  
+  .por,
+  .por * {
+    box-sizing: border-box;
+  }
+  
+  div.a {
+    align-items: center;
+    .por {
+    color: #000000;
+    text-align: center;
+    font-family: "JuliusSansOne-Regular", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+  }
+  }
+  
+  .vit-ria-viana,
+  .vit-ria-viana * {
+    box-sizing: border-box;
+    font-family: "Jacques Francois", serif;
+  }
+  .vit-ria-viana {
+    color: #000000;
+    text-align: center;
+    font-family: "JuliusSansOne-Regular", sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    position: relative;
+    margin: 30px;
+    font-family: "Jacques Francois", serif;
+  }
+  .agora-voc-n-o-precisa-de-uma-maquiadora-profisional-para-chegar-no-resultado-que-deseja,
+  .agora-voc-n-o-precisa-de-uma-maquiadora-profisional-para-chegar-no-resultado-que-deseja
+    * {
+    box-sizing: border-box;
+  }
+  .agora-voc-n-o-precisa-de-uma-maquiadora-profisional-para-chegar-no-resultado-que-deseja {
+    text-align: center;
+    font-family: "Jacques Francois", sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    position: relative;
+  
+  }
+  
+  .agora-voc-n-o-precisa-de-uma-maquiadora-profisional-para-chegar-no-resultado-que-deseja-span {
+    color: #000000;
+    font-family: "OrelegaOne-Regular", sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    font-family: "";
+  }
+  .agora-voc-n-o-precisa-de-uma-maquiadora-profisional-para-chegar-no-resultado-que-deseja-span2 {
+    color: #9f414e;
+    font-family: "Jacques Francois", sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+  }
+  .rectangle-3,
+  .rectangle-3 * {
+    box-sizing: border-box;
+  }
+  .rectangle-3 {
+    background: #9f414e;
+    border-radius: 30px;
+    height: 40px;
+    position:relative;
+    margin: 30px;
+  }
+  .clique-aqui-e-fa-a-a-maquiagem-que-quiser,
+  .clique-aqui-e-fa-a-a-maquiagem-que-quiser * {
+    box-sizing: border-box;
+  }
+  .clique-aqui-e-fa-a-a-maquiagem-que-quiser {
+    color: #ffffff;
+    text-align: center;
+    font-family: "OrelegaOne-Regular", sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    position: relative;
+    align-items: center;
+  }
+  .MAQUIAGEM{
+    font-family: "curso-de-maquiagem";
+  }
+  
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
